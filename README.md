@@ -1,2 +1,1 @@
-# Snake-en-c
-Le jeu snake en c !
+# Snake-en-C
